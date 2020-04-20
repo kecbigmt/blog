@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "@kecbigmt/website",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "kecy website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "kecy",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/kecbigmt/website"
   },
   "dependencies": {
     "gatsby": "^2.20.25",
@@ -38,15 +38,13 @@
   "devDependencies": {
     "prettier": "2.0.4"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com:kecbigmt/website.git"
   },
   "scripts": {
     "build": "gatsby build",

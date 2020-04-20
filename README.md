@@ -1,5 +1,5 @@
 ## About
-自分のブログです。Gatsby.jsについて学ぶために作りました。
+自分のウェブサイトです。Gatsby.jsについて学ぶために作りました。
 今のところちゃんと更新する気はありません。でも念のため著作権表記は書いておきます。
 
 ## Copyright
@@ -7,7 +7,7 @@ Copyright (c) 2020 kecy
 All rights reserved.
 
 ## License
-The base of web site is created by Gatsby.js.
+This web site is powerd by Gatsby.js.
 Gatsby.js is under The MIT License.
 
 ```
